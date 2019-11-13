@@ -6,3 +6,5 @@ a new line added now
 an another line added
 
 different line is also added in the master
+
+there are some other different things also added to this page.
