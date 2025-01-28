@@ -1,0 +1,5 @@
+{
+      "getToken": "https://auth.${environment}.npe.tedge.adn-gw.t-mobile.com/oauth2/v1/tokens",
+      "getDigitalAptitudeDetails": "https://nssexp-rsom-tapxapi-v4-proxy.${environment}.npe.tedge.adn-gw.t-mobile.com/tapx/v4/account/getDigitalAptitudeDetails",
+      "sendPushToApp": "https://nssexp-rsom-tapxapi-v4-proxy.${environment}.npe.tedge.adn-gw.t-mobile.com/tapx/v4/account/sendPushToApp"
+}

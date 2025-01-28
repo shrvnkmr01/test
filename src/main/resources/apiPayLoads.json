@@ -1,0 +1,15 @@
+{
+  "getDigitalAptitudeDetails": {
+    "ban": "200379366",
+    "searchedMsisdn": "",
+    "qualifiedMsisdnList": ["7632285765"]
+  },
+  "sendPushToApp": {
+    "ban": "215448925",
+    "msisdn": "4044512467",
+    "languageSelected": "SPA",
+    "notificationType": "PN",
+    "userId": "ssindog7",
+    "commissionsEventType": "PUSH_TO_APP"
+  }
+}
